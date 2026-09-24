@@ -36,7 +36,7 @@ TidyRoutine does not share user data with third parties.
 
 ## Data Retention and Deletion
 
-Your TidyRoutine data remains stored locally on your device until you remove it through the app, clear the application's data, or uninstall the application.
+Your TidyRoutine data remains stored locally on your device until it is deleted through available app functions, the application's data is cleared in your device settings, or the application is uninstalled.
 
 Uninstalling TidyRoutine removes locally stored application data according to the behavior of your operating system.
 
